@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/simpletodoTiffInTech/static/css/main.b100e6da.chunk.css",
+    "main.js": "/simpletodoTiffInTech/static/js/main.448f6f54.chunk.js",
+    "main.js.map": "/simpletodoTiffInTech/static/js/main.448f6f54.chunk.js.map",
+    "runtime-main.js": "/simpletodoTiffInTech/static/js/runtime-main.a8f27b04.js",
+    "runtime-main.js.map": "/simpletodoTiffInTech/static/js/runtime-main.a8f27b04.js.map",
+    "static/js/2.a4b6d6c6.chunk.js": "/simpletodoTiffInTech/static/js/2.a4b6d6c6.chunk.js",
+    "static/js/2.a4b6d6c6.chunk.js.map": "/simpletodoTiffInTech/static/js/2.a4b6d6c6.chunk.js.map",
+    "index.html": "/simpletodoTiffInTech/index.html",
+    "precache-manifest.68467a0ac464ab7964e88e84fb1ed298.js": "/simpletodoTiffInTech/precache-manifest.68467a0ac464ab7964e88e84fb1ed298.js",
+    "service-worker.js": "/simpletodoTiffInTech/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/simpletodoTiffInTech/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8f27b04.js",
+    "static/js/2.a4b6d6c6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.448f6f54.chunk.js"
+  ]
+}
